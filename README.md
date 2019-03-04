@@ -2,4 +2,4 @@
 
 #Vendor and NodeModules are missing
 
-#composer update for Vendor and npm isntall for NodeModules
+#composer update for Vendor and npm install for NodeModules
