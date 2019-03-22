@@ -1,8 +1,6 @@
-# Laravel-PHP
+## Laravel-PHP
 
-## Introduction
-
-To reload missing files run:
+Required:
        
          composer install
          npm install
